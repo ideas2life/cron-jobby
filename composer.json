@@ -1,17 +1,18 @@
 {
-    "name": "ideas2life/cron-jobby",
-    "description": "A rapper for cronjobs using jobby for scheduling",
-    "type": "library",
-    "license": "GPL-3.0-or-later",
-    "authors": [
-        {
-            "name": "xatzistnr",
-            "email": "george@ideas2life.com.cy"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {
-        "hellogerard/jobby": "^3.4",
-        "ideas2life/i2log": "^0.0.2"
+  "name": "ideas2life/cron-jobby",
+  "description": "A rapper for cronjobs using jobby for scheduling",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "xatzistnr",
+      "email": "george@ideas2life.com.cy"
     }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "hellogerard/jobby": "^3.4",
+    "ideas2life/i2log": "^0.0.2"
+  }
 }
