@@ -3,7 +3,7 @@
   "description": "A rapper for cronjobs using jobby for scheduling",
   "type": "library",
   "license": "GPL-3.0-or-later",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": [
     {
       "name": "xatzistnr",
