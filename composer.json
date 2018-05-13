@@ -1,9 +1,9 @@
 {
   "name": "ideas2life/cron-jobby",
-  "description": "A rapper for cronjobs using jobby for scheduling",
+  "description": "A wrapper for cronjobs using jobby for scheduling",
   "type": "library",
   "license": "GPL-3.0-or-later",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     {
       "name": "xatzistnr",
