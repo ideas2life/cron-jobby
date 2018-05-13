@@ -3,7 +3,7 @@
   "description": "A wrapper for cronjobs using jobby for scheduling",
   "type": "library",
   "license": "GPL-3.0-or-later",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "authors": [
     {
       "name": "xatzistnr",
